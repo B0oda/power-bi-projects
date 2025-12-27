@@ -60,4 +60,11 @@ This project analyzes sales data from a Pizza Place to identify insights related
 2. Use filters and slicers to interact with the dashboard.
 3. Explore different pages for Overview and Insights.
 
+## Power BI Services 
+
+https://app.powerbi.com/links/-rB3AwggBs?ctid=3399e0b1-6537-4820-8278-6a4a3194dcb8&pbi_source=linkShare&bookmarkGuid=836947fc-0c67-4b15-afe6-fe00853d0485
+
+
+
+
 
