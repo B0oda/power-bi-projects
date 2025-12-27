@@ -55,5 +55,5 @@ Filter: Click the filter icon in the sidebar to open the Hidden Slicers and cust
 Cross-Highlight: Click on any channel in the donut chart to filter the entire page's metrics for that specific channel.
 
 Contact & Support
-If you have any questions regarding the data methodology or the DAX measures used in this report, feel free to reach out via [linkedin](www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288)
+If you have any questions regarding the data methodology or the DAX measures used in this report, feel free to reach out via [linkedin]([www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288](https://www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288/))
 .
