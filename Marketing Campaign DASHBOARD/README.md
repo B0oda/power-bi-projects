@@ -67,6 +67,3 @@ If you have any questions about the DAX logic or data modeling used in this proj
 - **LinkedIn:** [www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288]  
 
 
-
-
-## 📂 Project Structure
