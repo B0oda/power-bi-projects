@@ -99,6 +99,11 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
-**Abdelrahman Mahmoud**  
+
+## 📧 Contact & Support
+If you have any questions about the DAX logic or data modeling used in this project, feel free to reach out!
+
+- **Name:** [Abdelrahman Mahmoud]  
+- **LinkedIn:** [www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288]  
+
 Aspiring Data Analyst | Power BI | Data Visualization
