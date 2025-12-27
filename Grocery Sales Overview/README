@@ -46,7 +46,7 @@ This dashboard provides a high-level view of overall sales performance.
 - Net sales and quantity distribution by city  
 - Top-performing products  
 
-![Executive Sales Overview](Template/Executive%20Sales%20Overview.png)
+![Executive Sales Overview](Template/Executive_Sales_Overview.png)
 
 ---
 
@@ -60,7 +60,7 @@ This dashboard focuses on customer segmentation and salesperson analysis.
 - Salesperson performance relative to discount rates  
 - Top 10 products by net sales  
 
-![Customer & Salesperson Performance](Template/Customer%20&%20Salesperson%20Performance.png)
+![Customer and Salesperson Performance](Template/Customer_and_Salesperson_Performance.png)
 
 ---
 
