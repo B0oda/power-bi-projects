@@ -23,7 +23,7 @@ The focus of this project is on **data modeling, DAX calculations, dashboard des
 The report has been published to **Power BI Service** to allow interactive exploration of the dashboards.
 
 🔗 **Live Report Link:**  
-> *(Add Power BI Service link here)*
+> *(https://app.powerbi.com/links/7lKW-TXf1g?ctid=3399e0b1-6537-4820-8278-6a4a3194dcb8&pbi_source=linkShare)*
 
 > Note: Some data interactions may be limited based on access permissions.
 
@@ -60,7 +60,7 @@ This dashboard focuses on customer segmentation and salesperson analysis.
 - Salesperson performance relative to discount rates  
 - Top 10 products by net sales  
 
-![Customer & Salesperson Performance](Grocery Sales Overview/Template/Customer & Salesperson Performance.png.png)
+![Customer & Salesperson Performance](Template/Customer%20&%20Salesperson%20Performance.png)
 
 ---
 
@@ -87,15 +87,6 @@ Examples of measures used:
 - Average Discount %  
 - Sales Contribution %  
 - Top N Product Ranking  
-
----
-
-## 🚀 How to Use
-1. Download the `.pbix` file  
-2. Open it using **Power BI Desktop**  
-3. Review visuals, measures, and report structure  
-
-> Note: Data refresh may not work without access to the original dataset.
 
 ---
 
