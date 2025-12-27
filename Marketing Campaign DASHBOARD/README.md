@@ -1,59 +1,72 @@
-Marketing Campaign Performance Dashboard 📊
-🔗 Live Interactive Dashboard
-View Live Power BI Report
+# 📊 Marketing Campaign Performance Dashboard
 
-📝 Project Overview
-This project features a comprehensive Marketing Campaign Dashboard designed to track, analyze, and optimize advertising performance across multiple channels. It provides a high-level view of financial metrics (Revenue, Spend, ROAS) alongside engagement data (Clicks, Impressions, CTR).
+---
 
-The dashboard serves as a strategic tool for marketing managers to identify high-performing channels and monitor budget efficiency in real-time.
+## 🔗 Live Report
+> **View the interactive version here:** [Live Power BI Service Link](https://app.powerbi.com/links/P5MiIMEFgd?ctid=3399e0b1-6537-4820-8278-6a4a3194dcb8&pbi_source=linkShare)
 
-🚀 Key Performance Indicators (KPIs)
-Ad Spend: $2.42M
+---
 
-Total Revenue: $344.33M
+## 📝 Project Overview
+This Power BI dashboard provides a high-level performance analysis of digital marketing campaigns.  
+It integrates financial data (Spend & Revenue) with engagement metrics (Clicks & Impressions) to evaluate the effectiveness of various advertising channels over time.
 
-ROAS (Return on Ad Spend): 142.51x
+---
 
-CTR (Click-Through Rate): 5.09%
+## 🚀 Key Performance Indicators (KPIs)
 
-Conversion Rate: 9.81%
+| Metric | Value | Description |
+| :--- | :--- | :--- |
+| **Ad Spend** | **$2.42M** | Total investment across all channels |
+| **Total Revenue** | **$344.33M** | Total income generated from campaigns |
+| **ROAS** | **142.51** | Return on Ad Spend (Efficiency) |
+| **CTR%** | **5.09%** | Average Click-Through Rate |
+| **Conversion %** | **9.81%** | Percentage of clicks that led to a sale |
+| **CPM** | **$10** | Cost per 1,000 Impressions |
 
-CPM (Cost Per Mille): $10
+---
 
-🔍 Visual Insights
-1. Financial Trends
-The Revenue Growth vs. Ad Spend area chart illustrates a strong correlation between investment and returns, peaking in January 2025. This visual helps in identifying seasonal trends and the direct impact of scaling budgets.
+## 🔍 Visual Analysis Breakdown
 
-2. Channel Allocation
-The Ad Spend Allocation donut charts break down the budget across:
+### 📈 1. Financial Trends (Revenue vs. Ad Spend)
+- **Performance Peak:** The campaigns saw a significant upward trend from **November 2024**, peaking in **January 2025** with **$0.84M** in spend and **$0.13B** in revenue.  
+- **Correlation:** Strong positive correlation between spend increase and revenue growth, validating the campaign's scalability.
 
-Google Ads (Highest Spend)
+### 🎯 2. Channel Allocation
+Budget distributed across five main channels:  
+- **Google Ads:** $529.99K (Top Channel)  
+- **Referral:** $516.51K  
+- **Email Campaign:** $460.41K  
+- **Instagram Ads:** $458.01K  
+- **Influencer Marketing:** $451.22K  
 
-Referral Marketing
+### 📊 3. Engagement Funnel
+- **Reach:** Total of **242M Impressions** and **12M Clicks**.  
+- **Volume:** January 2025 was the highest volume month with **91M Impressions**.
 
-Email Campaigns
+---
 
-Instagram & Influencer Marketing
+## 🛠️ Advanced Features & UI/UX
 
-3. Engagement Metrics
-A monthly breakdown of Impressions vs. Clicks allows for a granular look at audience reach and the effectiveness of ad creatives over time.
+### 🖱️ Interactive Slicers (Hidden Pane)
+- **Access:** Toggle the panel using the **Filter Icon** on the left sidebar.  
+- **Functionality:** Allows deep-diving into specific dates, platforms, or regions without cluttering main visuals.
 
-🛠️ Technical Features
-Tool Used: Power BI Desktop / Power BI Service.
+### 🎨 Design Highlights
+- **Navigation Sidebar:** Custom icons for Home, Filters, and Clear Filters.  
+- **Conditional Formatting:** Highlights performance variances and trends.  
+- **Optimized Layout:** Clean, modern "Glassmorphism" style for better readability.
 
-Data Modeling: Integrated multiple data sources to create a unified marketing schema.
+---
 
-Hidden Slicers Pane: To maintain a clean UI/UX, I implemented a Hidden Slicer Panel (accessible via the filter icon on the sidebar). This allows users to filter by specific dates, regions, or platforms without cluttering the main view.
 
-Dynamic Navigation: Custom sidebar for seamless page navigation and bookmarks for state management.
+## 📧 Contact & Support
+If you have any questions about the DAX logic or data modeling used in this project, feel free to reach out!
 
-📂 How to Use
-Interact: Use the live link above to explore the data dynamically.
+- **Name:** [Abdelrahman Mahmoud]  
+- **LinkedIn:** [www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288]  
 
-Filter: Click the filter icon in the sidebar to open the Hidden Slicers and customize the view.
 
-Cross-Highlight: Click on any channel in the donut chart to filter the entire page's metrics for that specific channel.
 
-Contact & Support
-If you have any questions regarding the data methodology or the DAX measures used in this report, feel free to reach out via [linkedin]([www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288](https://www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288/))
-.
+
+## 📂 Project Structure
