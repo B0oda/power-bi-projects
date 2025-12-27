@@ -65,6 +65,15 @@ This project analyzes sales data from a Pizza Place to identify insights related
 https://app.powerbi.com/links/-rB3AwggBs?ctid=3399e0b1-6537-4820-8278-6a4a3194dcb8&pbi_source=linkShare&bookmarkGuid=836947fc-0c67-4b15-afe6-fe00853d0485
 
 
+## 📧 Contact & Support
+If you have any questions about the DAX logic or data modeling used in this project, feel free to reach out!
+
+- **Name:** [Abdelrahman Mahmoud]  
+- **LinkedIn:** [www.linkedin.com/in/abdelrahman-mahmoud-0b8b18288]  
+
+
+
+
 
 
 
